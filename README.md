@@ -1,9 +1,8 @@
 # Spotify Clone
 
-![image](https://user-images.githubusercontent.com/53989824/94802071-a0dab480-0404-11eb-9e20-2a9f67a0d78d.png)
-
 ![image](https://user-images.githubusercontent.com/53989824/94802436-4db53180-0405-11eb-9681-e69bcf260de4.png)
 
+![image](https://user-images.githubusercontent.com/53989824/94802683-bc928a80-0405-11eb-9bbf-f618a3903832.png)
 
 
 > This is a Spotify clone made using React and Spotify developer API.
