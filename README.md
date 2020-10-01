@@ -1,6 +1,6 @@
 # Spotify Clone
 
-![Project Image](project-image-url)
+![Project Image](![image](https://user-images.githubusercontent.com/53989824/94802071-a0dab480-0404-11eb-9e20-2a9f67a0d78d.png))
 
 > This is a Spotify clone made using React and Spotify developer API.
 
